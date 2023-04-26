@@ -1,0 +1,4 @@
+Ресурси:
+1)MDN Web Docs
+2)W3Schools
+3)codeguide
