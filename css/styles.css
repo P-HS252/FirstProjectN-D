@@ -3,7 +3,11 @@ body {
 }
 .logo {
     color: #FFFFFF;
+    background-color: #ff7700;
 }
 .logo2 {
     color: black;
+}
+.link {
+    text-decoration: none;
 }
